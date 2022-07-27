@@ -1,0 +1,31 @@
+{
+  "name": "kxlab",
+  "version": "1.0.0",
+  "description": "康贤的集合包",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lkxian888/kxlab.git"
+  },
+  "keywords": [
+    "hooks",
+    "WebRTC",
+    "utils",
+    "kx-ui",
+    "react组件",
+    "前端常用工具/常用hooks",
+    "three.js"
+  ],
+  "author": "lkx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lkxian888/kxlab/issues"
+  },
+  "homepage": "https://github.com/lkxian888/kxlab#readme"
+}

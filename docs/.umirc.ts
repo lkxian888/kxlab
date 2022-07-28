@@ -1,10 +1,16 @@
+/*
+ * @Description: your description
+ * @Author: lkxian
+ * @@@Email: lkxian888@163.com
+ * @Date: 2022-07-27 23:26:37
+ * @LastEditTime: 2022-07-28 23:39:21
+ */
 import { defineConfig } from 'dumi';
 
 export default defineConfig({
-  title: 'docs',
-  favicon:
-    'https://user-images.githubusercontent.com/9554297/83762004-a0761b00-a6a9-11ea-83b4-9c8ff721d4b8.png',
-  logo: 'https://user-images.githubusercontent.com/9554297/83762004-a0761b00-a6a9-11ea-83b4-9c8ff721d4b8.png',
+  title: 'kx 集合包技术文档',
+  favicon: '/images/logo.png',
+  logo: '/images/logo.png',
   outputPath: 'docs-dist',
   mode: 'site',
   // more config: https://d.umijs.org/config

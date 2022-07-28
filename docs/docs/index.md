@@ -1,9 +1,11 @@
 ---
+title: kx 集合包技术文档
+order: 10
 hero:
-  title: docs
-  desc: docs site example
+  title: kx 集合包技术文档
+  desc: 有组件库、工具类、Hooks、规范配置文档
   actions:
-    - text: Getting Started
+    - text: 快速开始
       link: /components
 features:
   - icon: https://gw.alipayobjects.com/zos/bmw-prod/881dc458-f20b-407b-947a-95104b5ec82b/k79dm8ih_w144_h144.png
@@ -15,7 +17,5 @@ features:
   - icon: https://gw.alipayobjects.com/zos/bmw-prod/d1ee0c6f-5aed-4a45-a507-339a4bfe076c/k7bjsocq_w144_h144.png
     title: Feature 3
     desc: Balabala
-footer: Open-source MIT Licensed | Copyright © 2020<br />Powered by [dumi](https://d.umijs.org)
+footer: Open-source MIT Licensed | Copyright © 2022<br />Powered by [dumi](https://d.umijs.org)
 ---
-
-## Hello docs!
